@@ -1,4 +1,4 @@
-Command to run and listen at 3000: nodemon app.ts
+Command to run: nodemon app.ts
 
 
 
