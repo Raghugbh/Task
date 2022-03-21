@@ -1,0 +1,15 @@
+{
+    "compileOnSave": true,
+     "noImplicitAny": false,
+    "compilerOptions": {   
+        "module": "commonjs",
+        "target": "es6",
+         "esModuleInterop": true,
+         "sourceMap": true,
+          "declaration": false,
+          "downlevelIteration": true,
+         "experimentalDecorators": true,
+         "moduleResolution": "node",
+         "importHelpers": true,
+      }
+}
